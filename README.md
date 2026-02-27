@@ -301,7 +301,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vaibhav Sharma**
 
 * Data Science & ML Enthusiast
 * Passionate about solving real-world problems using AI
